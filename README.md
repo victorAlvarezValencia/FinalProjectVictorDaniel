@@ -51,11 +51,11 @@ To execute the tests in your local environment, follow these steps:
 1. Ensure Node.js is installed (version 12 or higher recommended).
 2. Clone the repository:
     ```sh
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/victorAlvarezValencia/FinalProjectVictorDaniel.git
     ```
 3. Navigate to the project's root directory:
     ```sh
-    cd [your-project-name]
+    cd FinalProjectVictorDaniel
     ```
 4. Install dependencies:
     ```sh
