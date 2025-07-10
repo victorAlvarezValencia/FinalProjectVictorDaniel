@@ -57,11 +57,16 @@ To execute the tests in your local environment, follow these steps:
     ```sh
     cd FinalProjectVictorDaniel
     ```
-4. Install dependencies:
+4. Install Node.js
+    ```bash
+    nvm install 20
+    nvm use 20
+    ```
+5. Install dependencies:
     ```sh
     npm install
     ```
-5. Execute the tests:
+6. Execute the tests:
     ```sh
     npm run wdio
     ```
